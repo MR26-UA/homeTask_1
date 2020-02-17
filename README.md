@@ -1,2 +1,2 @@
-# homeTask_1
+# homeTask_js
 home tasks for js(basic)
